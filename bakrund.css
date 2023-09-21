@@ -1,7 +1,9 @@
 body {
-    
+    /*dehär är bakrunden */
     background-image: url(https://media.gettyimages.com/id/182060276/sv/foto/casual-man-gesturing-thumbs-up-isolated.jpg?s=612x612&w=gi&k=20&c=-TiVhMd2pWZd1yBKRgWAR7wEOC8ecbeVFU3jJlRrrIc=);
 }
+
+/* här använder vi fonts */
 
 p {
     font-family: fantasy;

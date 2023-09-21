@@ -1,0 +1,3 @@
+function knappTryck() {
+    alert("TJENAAAAAAA")
+}

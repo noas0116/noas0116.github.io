@@ -12,9 +12,13 @@ table {
     width: 400px;
 }
 
-td{
+td {
     border: 5px;
     border-style: solid;
     widh: 400px;
-    
+
+}
+
+div {
+    padding: 50px;
 }
