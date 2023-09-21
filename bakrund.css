@@ -31,3 +31,11 @@ button{
 img{
 width: 300px;
 }
+
+.hundar{
+    width: 200px;
+}
+h4{
+    font-style: italic;
+    text-decoration: underline;
+}
