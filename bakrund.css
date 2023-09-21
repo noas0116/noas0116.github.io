@@ -1,0 +1,33 @@
+body {
+    
+    background-image: url(https://media.gettyimages.com/id/182060276/sv/foto/casual-man-gesturing-thumbs-up-isolated.jpg?s=612x612&w=gi&k=20&c=-TiVhMd2pWZd1yBKRgWAR7wEOC8ecbeVFU3jJlRrrIc=);
+}
+
+p {
+    font-family: fantasy;
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 40;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    width: fit-content;
+}
+h3{
+    background-color: red;
+    font: bold;
+    text-decoration: underline;
+    width: fit-content;
+}
+p{
+    width: fit-content;
+}
+button{
+    background-color: blueviolet;
+}
+img{
+width: 300px;
+}

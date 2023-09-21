@@ -1,0 +1,25 @@
+[1mdiff --git a/bakrund.css b/bakrund.css[m
+[1mindex 4a40e8c..5587b2b 100644[m
+[1m--- a/bakrund.css[m
+[1m+++ b/bakrund.css[m
+[36m@@ -1,6 +1,6 @@[m
+ body {[m
+     [m
+[31m-    background-image: url(https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/366371516_773482027909276_3083556682028420658_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=49d041&_nc_ohc=-PLeif4t_pMAX_lS842&_nc_ht=scontent-arn2-1.xx&oh=00_AfCbtdNAHW46W9GrkO-OUCuboj3MvVadX-ZEXjuzYY0k8w&oe=64F5F021);[m
+[32m+[m[32m    background-image: url(https://media.gettyimages.com/id/182060276/sv/foto/casual-man-gesturing-thumbs-up-isolated.jpg?s=612x612&w=gi&k=20&c=-TiVhMd2pWZd1yBKRgWAR7wEOC8ecbeVFU3jJlRrrIc=);[m
+ }[m
+ [m
+ p {[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3dd0c58..a8021c5 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -13,7 +13,7 @@[m
+     <h1 style="background-color: white;">Hejsan</h1>[m
+ [m
+ [m
+[31m-<h1>Väldigt stor rubrik!</h1>[m
+[32m+[m[32m<h1>HEJSAN</h1>[m
+ [m
+ <h1>Stor Rubrik</h1>[m
+ <h3>tja</h3>[m

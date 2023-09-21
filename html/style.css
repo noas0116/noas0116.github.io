@@ -1,0 +1,19 @@
+body {
+    background-color: purple;
+
+
+
+
+}
+
+table {
+    border: 3px;
+    border-style: solid;
+    width: 400px;
+}
+
+td{
+    border: 5px;
+    border-style: solid;
+    widh: 400px;
+}
