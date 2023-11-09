@@ -16,33 +16,6 @@ body {
     animation-direction: alternate;
 }
 
-@-webkit-keyframes slidein {
-    from {
-        background-position: top;
-        background-size: 3000px;
-    }
-
-    to {
-        background-position: -100px 0px;
-        background-size: 2750px;
-    }
-}
-
-@keyframes slidein {
-    from {
-        background-position: top;
-        background-size: 3000px;
-    }
-
-    to {
-        background-position: -100px 0px;
-        background-size: 2750px;
-    }
-
-}
-
-
-
 .center {
     display: flex;
     align-items: center;
@@ -69,3 +42,4 @@ h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
 }
+

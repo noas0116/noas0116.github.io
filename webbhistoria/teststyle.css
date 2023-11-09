@@ -2,7 +2,7 @@ body {
     margin: 0;
     height: 100vh;
     font-weight: 100;
-    background: radial-gradient(hwb(207 1% 25% / 0.751), hwb(214 1% 74% / 0.847));
+    background: radial-gradient(hwb(0 75% 25% / 0.751), hwb(240 67% 33% / 0.847));
     -webkit-overflow-y: hidden;
     -moz-overflow-y: hidden;
     -o-overflow-y: hidden;
