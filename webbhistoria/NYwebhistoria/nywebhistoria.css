@@ -1,0 +1,48 @@
+h2{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body{
+
+    background: #e3e3e3;
+}
+.tidslinje{
+
+    position: relative;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.container{
+    width: 650px;
+    padding: 14px 30px;
+    position: relative;
+    background: black
+        
+}
+.text-box{
+
+    padding: 20px 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px;
+}
+
+.container.left-container{
+
+left: 0%;
+
+}
+
+.container.right-container{
+
+right: 0%;
+}
+.container.container.right-container1{
+
+    padding: 13px 1px;
+
+
+}
