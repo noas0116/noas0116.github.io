@@ -4,38 +4,56 @@ h1 {
 
 .text3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: xx-large
+    font-size: x-large;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
 }
 
 .text2 {
     font-size: large
 }
-.grid-container{
-display: grid;
-grid-template-columns: auto auto;
-column-gap: 100px;
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 100px;
 }
-.grid-container{
-row-gap: 50px   ;
+
+.grid-container {
+    row-gap: 50px;
 }
-.grid-container{
-gap: 10px, 20px;
+
+.grid-container {
+    gap: 10px, 20px;
 }
-.grid-container{
+
+.grid-container {
     gap: 30px;
 }
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto;
-    padding: 10px;
+    padding: 30px;
     color: black;
     background-color: gray;
     margin: 60px;
-  }
-  .grid-item {
+
+}
+
+.grid-item {
     background-color: rgba(255, 255, 255, 0.8);
     border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
+    padding: 27px;
     font-size: 30px;
     text-align: center;
-  }
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+body {
+    /*här kan man ändra griden för hela bodyn i auto auto grejen*/
+    display: grid;
+    grid-template-columns: auto auto;
+}
