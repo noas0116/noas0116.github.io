@@ -1,0 +1,24 @@
+body{
+    background-image: url(bombastic.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 1560px;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+b{
+    color: white;
+    font-size: 30px;
+}
+.p_svar{
+    color: white;
+    font-size: 30px;
+}
+h1{
+    color: white;
+    display: center;
+    margin: 100px;
+    
+}

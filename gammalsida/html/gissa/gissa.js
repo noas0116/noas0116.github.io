@@ -41,8 +41,16 @@ function gissaTal() {
     else {
 
 
-        p_svar.innerHTML = "Loser"
+        p_svar.innerHTML = "Fel! Ladda om sidan igen"
     }
+
+    if (vinn) {
+        var sound = new Audio('correct.mp3');
+        sound.play();
+     } else {
+        var sound_i = new Audio('buzzer.mp3');
+        sound_i.play();
+     }
 
 }
 
