@@ -1,5 +1,5 @@
 body {
-    background-color: purple;
+    background-color: rgb(237, 237, 237);
 }
 
 table {
@@ -11,7 +11,7 @@ table {
 td {
     border: 5px;
     border-style: solid;
-    widh: 400px;
+    width: 400px;
 
 }
 
