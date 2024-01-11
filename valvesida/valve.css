@@ -23,7 +23,7 @@ h1 {
 p{
     color: goldenrod;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    width: 400px;
+    width: 660px;
     padding-left: 400px;
 }
 .ljust{
@@ -31,10 +31,39 @@ p{
     padding-left: 399px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
+    padding-bottom: 10px;
 }
 h2{
     color: goldenrod;
-padding: 10px;
+    padding: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-left: 399px;
+}
+.ljust1{
+    color: goldenrod;
+    padding-left: 399px;
+    width: 647px;
+}
+.ljust2{
+    color: goldenrod;
+    padding-left: 399px;
+    width: 647px;   
+}
+.ljust3{
+    color: goldenrod;
+    padding-left: 399px;
+    width: 647px;  
+    padding-top: 12px; 
+}
+.ljust4{
+    color: goldenrod;
+    padding-left: 399px;
+    padding-top: 45px;
+    width: 647px; 
+    font-size: smaller;
+}
+.halflife{
+    width: 120px;
+    background-attachment: fixed;
+    padding-left: 200px;
 }
