@@ -1,0 +1,40 @@
+body {
+    background-image: url(bilder/);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 1200px;
+    background-size: 100%;
+}
+
+.valveloggarod {
+    width: 120px;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 3px;
+    padding-left: 395px;
+}
+
+h1 {
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 399px;
+}
+p{
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 400px;
+    padding-left: 400px;
+}
+.ljust{
+    color: goldenrod;
+    padding-left: 399px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+h2{
+    color: goldenrod;
+padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 399px;
+}
