@@ -1,10 +1,11 @@
 body {
-    background-image: url(bilder/);
+    background-image: url(bilder/valves.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: 1200px;
     background-size: 100%;
+    overflow: hidden
 }
 
 .valveloggarod {
@@ -12,6 +13,7 @@ body {
     background-position: center;
     background-attachment: fixed;
     margin: 3px;
+    padding: 4px;
     padding-left: 395px;
 }
 
@@ -19,6 +21,7 @@ h1 {
     color: goldenrod;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-left: 399px;
+    font-size: x-large;
 }
 p{
     color: goldenrod;
@@ -38,6 +41,7 @@ h2{
     padding: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-left: 399px;
+    font-size: x-large;
 }
 .ljust1{
     color: goldenrod;
@@ -58,12 +62,16 @@ h2{
 .ljust4{
     color: goldenrod;
     padding-left: 399px;
-    padding-top: 45px;
+    padding-top: 127px;
     width: 647px; 
     font-size: smaller;
 }
 .halflife{
     width: 120px;
-    background-attachment: fixed;
-    padding-left: 200px;
+    padding-left: 80px;
+    position: absolute;
+    left: 100px;
+    top: 240px;  
+    text-align: center;
+
 }
