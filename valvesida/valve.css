@@ -64,6 +64,7 @@ h2{
     padding-left: 399px;
     padding-top: 127px;
     width: 647px; 
+    margin-top: 120px;
     font-size: smaller;
 }
 .halflife{
@@ -73,5 +74,4 @@ h2{
     left: 100px;
     top: 240px;  
     text-align: center;
-
 }
