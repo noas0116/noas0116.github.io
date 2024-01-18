@@ -1,5 +1,5 @@
 body {
-    background-image: url(bilder/valves.png);
+    background-image: url(bilder/valvesnew.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -74,4 +74,17 @@ h2{
     left: 100px;
     top: 240px;  
     text-align: center;
+}
+.rod1{
+    color: #c30202;
+    font-style: italic;
+    text-decoration: underline;
+}
+.rod2{
+    color: #c30202;
+    text-decoration: underline;
+}
+.rod3{
+    color: #c30202;
+    text-decoration: underline;
 }
