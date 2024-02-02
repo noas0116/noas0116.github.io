@@ -8,3 +8,18 @@ h3{
     padding-right: 990px;
     width: 2000px;
 }
+li{
+    height: 20px;
+    line-height: 719px
+}
+.matlogga{
+position: absolute; 
+bottom: 10px;
+width: 900px;
+right: 1000px;
+}
+strong{
+ position: absolute;
+ bottom: 220px;
+ right: 1220px;
+}
