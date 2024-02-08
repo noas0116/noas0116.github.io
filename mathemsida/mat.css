@@ -50,3 +50,6 @@ position: absolute;
 left: 999px;
 top: 220px;  
 }
+.recept{
+    text-decoration: underline;
+}

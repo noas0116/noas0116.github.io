@@ -4,7 +4,7 @@
     text-decoration: none;
     padding: 0;
     margin: 0;
-    color: rgb(8, 12, 14);
+    color: rgb(8, 12, 14);  
 }
 
 nav {
@@ -30,8 +30,7 @@ nav ul {
     background-position: center;
     background-attachment: fixed;
     left: 300px;
-    top: 0px;
-    
+    top: 0px;  
 }
 
 nav ul li {
@@ -59,10 +58,70 @@ nav ul li {
     top: 220px;
 }
 
-.recepter{
-text-decoration: underline;
+.minarecepter {
+    text-decoration: underline;
 }
-li{
+
+li {
     height: 20px;
-    line-height: 919px
+    line-height: 919px;
+    padding-left: 10px;
+    margin: 2px;
+}
+
+strong {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-attachment: fixed;
+    position: absolute;
+    left: 578px;
+    width: 680px;
+    top: 220px;
+}
+
+.ins1 {
+    position: absolute;
+    left: 490px;
+    top: 24px;
+
+}
+
+.ins2 {
+    position: absolute;
+    left: 490px;
+    top: 42px;
+}
+
+.ins3 {
+    position: absolute;
+    left: 490px;
+    top: 62px;
+}
+
+.ins4 {
+    position: absolute;
+    left: 490px;
+    top: 83px;
+}
+
+.ins5 {
+    position: absolute;
+    left: 490px;
+    top: 103px;
+}
+
+.ins6 {
+    position: absolute;
+    left: 490px;
+    top: 122px;
+}
+
+.ins7 {
+    position: absolute;
+    left: 490px;
+    top: 143px;
+}
+.ins8 {
+    position: absolute;
+    left: 490px;
+    top: 1px;
 }
