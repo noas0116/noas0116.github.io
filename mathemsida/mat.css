@@ -28,6 +28,7 @@ nav ul{
     background-attachment: fixed;
     left: 300px;
     top: 0px;  
+    
 }
 nav ul li {
     display: inline-block;
@@ -36,6 +37,7 @@ nav ul li {
     font-size: 19px;
     background-position: center;
     background-attachment: fixed;
+    
 }
 .grytan{
     position: absolute;

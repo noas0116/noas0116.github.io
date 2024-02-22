@@ -1,0 +1,65 @@
+.headern {
+    position: fixed;
+    width: 100%;
+    background-color: rgb(20, 20, 20);
+    top: 0;
+    left: 0;
+    padding: 53px;
+}
+
+.textblog {
+    position: fixed;
+    font-size: 40px;
+    left: 600px;
+    top: 0px;
+    color: white;
+}
+
+.texten {
+    color: rgb(0, 0, 0);
+    position: fixed;
+    font-size: 20px;
+    top: 140px;
+    left: 450px;
+    width: 890px;
+    font-weight: normal; /*tar bort bold text fonten*/
+
+}
+.ovanfor{
+    color: rgb(41, 41, 41);
+    position: fixed;
+    font-size: 20px;
+    top: 110px; /*desto mer nummer desto mer ner den går*/
+    left: 450px;
+    width: 890px;
+    font-weight: normal;
+
+}
+.sidebaren{
+    height: 100%; /* längden av sidebaren*/
+    width: 269px; 
+    position: fixed;
+    z-index: 1; /* rör sig ej när man skrollar */
+    top: 0; 
+    left: 0;
+    background-color: #111; 
+    padding-top: 20px;
+}
+.bloggdag1{
+    background-color: #111; 
+    position: fixed;    
+    font-size: 20px;
+    top: 110px; /*desto mer nummer desto mer ner den går*/
+    left: 450px;
+    width: 890px;
+    font-weight: normal;
+}
+.ommig{
+    color: rgb(255, 255, 255);
+    position: fixed;
+    font-size: 20px;
+    top: 110px; /*desto mer nummer desto mer ner den går*/
+    left: 450px;
+    width: 890px;
+    font-weight: normal;
+}
