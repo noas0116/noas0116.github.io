@@ -64,7 +64,7 @@
     color: rgb(0, 0, 0);
     position: fixed;
     font-size: 20px;
-    top: 200px;
+    top: 320px;
     left: 450px;
     width: 390px;
     font-weight: normal; /*tar bort bold text fonten*/
@@ -111,4 +111,13 @@
     font-size: 40px;
     left: 20px;
     color: white;
+}
+.textenlol1{
+    color: rgb(0, 0, 0);
+    position: fixed;
+    font-size: 20px;
+    top: 520px;
+    left: 450px;
+    width: 390px;
+    font-weight: normal; /*tar bort bold text fonten*/
 }

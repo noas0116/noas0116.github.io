@@ -125,5 +125,22 @@
     left: 450px;
     width: 890px;
     font-weight: normal;
-
+}
+.texten3{
+    color: rgb(0, 0, 0);
+    position: fixed;
+    font-size: 20px;
+    top: 340px;
+    left: 450px;
+    width: 890px;
+    font-weight: normal;
+}
+.texten4{
+    color: rgb(0, 0, 0);
+    position: fixed;
+    font-size: 20px;
+    top: 400px;
+    left: 450px;
+    width: 890px;
+    font-weight: normal;
 }
