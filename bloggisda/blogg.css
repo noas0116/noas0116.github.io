@@ -22,44 +22,108 @@
     top: 140px;
     left: 450px;
     width: 890px;
-    font-weight: normal; /*tar bort bold text fonten*/
+    font-weight: normal;
+    /*tar bort bold text fonten*/
 
 }
-.ovanfor{
+
+.ovanfor {
     color: rgb(0, 0, 0);
     position: fixed;
     font-size: 20px;
-    top: 110px; /*desto mer nummer desto mer ner den går*/
+    top: 110px;
+    /*desto mer nummer desto mer ner den går*/
     left: 450px;
     width: 890px;
     font-weight: normal;
 
 }
-.sidebaren{
-    height: 100%; /* längden av sidebaren*/
-    width: 269px; 
+
+.sidebaren {
+    height: 100%;
+    /* längden av sidebaren*/
+    width: 269px;
     position: fixed;
-    z-index: 1; /* rör sig ej när man skrollar */
-    top: 0; 
+    z-index: 1;
+    /* rör sig ej när man skrollar */
+    top: 0;
     left: 0;
-    background-color: #111; 
+    background-color: #111;
     padding-top: 20px;
 }
-.bloggdag1{
-    background-color: #111; 
-    position: fixed;    
+
+.bloggdag1 {
+    background-color: #111;
+    position: fixed;
     font-size: 20px;
-    top: 110px; /*desto mer nummer desto mer ner den går*/
+    top: 110px;
+    /*desto mer nummer desto mer ner den går*/
     left: 450px;
     width: 890px;
     font-weight: normal;
 }
-.ommig{
+
+.ommig {
     color: rgb(255, 255, 255);
     position: fixed;
     font-size: 20px;
-    top: 110px; /*desto mer nummer desto mer ner den går*/
+    top: 110px;
+    /*desto mer nummer desto mer ner den går*/
     left: 450px;
     width: 890px;
     font-weight: normal;
+}
+
+.bloggdagstart {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    top: 137px;
+    position: fixed;
+    font-size: 40px;
+    left: 20px;
+    color: white;
+}
+
+.bloggdag2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    top: 190px;
+    position: fixed;
+    font-size: 40px;
+    left: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.bloggdag3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    top: 240px;
+    font-size: 40px;
+    left: 20px;
+    position: fixed;
+    color: white;
+    text-decoration: none;
+}
+
+.bloggdag4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    top: 90px;
+    font-size: 40px;
+    left: 20px;
+    position: fixed;
+    color: white;
+    text-decoration: none;
+}
+
+.texten2 {
+    color: rgb(0, 0, 0);
+    position: fixed;
+    font-size: 20px;
+    top: 250px;
+    left: 450px;
+    width: 890px;
+    font-weight: normal;
+
 }
