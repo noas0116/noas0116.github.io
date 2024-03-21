@@ -1,0 +1,43 @@
+.text1{
+    position: absolute;
+    font-size: 30px;
+    top: 90px;
+    left: 689px;
+    text-decoration: none;
+    color: black;
+    font:oblique
+}
+.spotify{
+  padding: 180px;
+  text-align: center;
+}
+*{
+    background-color: rgb(243, 243, 243);
+}
+.musik{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 320px;
+    color: black;
+    font:oblique
+    
+}
+.spel{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 689px;
+    text-decoration: none;
+    color: black;
+    font:oblique
+}
+.filmer{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 1080px;
+    text-decoration: none;
+    color: black;
+    font:oblique
+}

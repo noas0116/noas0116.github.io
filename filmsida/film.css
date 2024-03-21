@@ -1,0 +1,44 @@
+.text1{
+padding: 200px;
+text-align: center;
+font: bold;
+}
+.text2{
+text-align: center;
+position: absolute;
+left: 550px;
+top: 290px; 
+}
+.musik{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 320px;
+    text-decoration: none;
+    color: black;
+    font:oblique
+}
+.spel{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 689px;
+    text-decoration: none;
+    color: black;
+    font:oblique
+}
+.filmer{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 1080px;
+    text-decoration: none;
+    color: black;
+    font:oblique
+}
+.goofy{
+    position: absolute;
+    font-size: 30px;
+    top: 400px;  
+    left: 620px;
+}
