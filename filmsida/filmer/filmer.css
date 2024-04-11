@@ -55,3 +55,15 @@
     font:oblique;
     text-decoration: none;
 }
+.borat{
+    text-align: center;
+    position: absolute;
+    left: 59px;
+    top: 145px; 
+}
+.bee{
+    text-align: center;
+    position: absolute;
+    left: 449px;
+    top: 145px;
+}
