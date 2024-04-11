@@ -1,0 +1,57 @@
+.text1{
+    position: absolute;
+    font-size: 30px;
+    top: 90px;
+    left: 689px;
+    text-decoration: none;
+    color: black;
+    font:oblique
+}
+*{
+    background-color: rgb(255, 255, 255);
+}
+.{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 320px;
+    color: black;
+    font:oblique
+}
+.spel1{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 689px;
+    color: black;
+    font:oblique;
+    text-decoration: none;
+}
+.filmer{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 1080px;
+    text-decoration: none;
+    color: black;
+    font:oblique;
+    text-decoration: underline;
+}
+.musik{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 320px;
+    color: black;
+    font:oblique;
+    text-decoration: none;
+}
+.hem{
+    position: absolute;
+    font-size: 30px;
+    top: 15px;
+    left: 40px;
+    color: black;
+    font:oblique;
+    text-decoration: none;
+}
