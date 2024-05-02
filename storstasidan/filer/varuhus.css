@@ -1,0 +1,8 @@
+*{
+    font-size: 30px;
+    background-image: url(/storstasidan/bild/ikeahus.png);
+}
+.lol{
+    text-shadow: 1px -1px 0 #000, 1px -1px 0 #ffffff, -1px 1px 0 #000, 1px 1px 0 #000;
+    background-repeat: none;
+}

@@ -1,0 +1,40 @@
+ul {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+  }
+  *{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif'
+
+  }
+  li{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    padding: 15px;  
+    text-align: center;
+  }
+  .logo{
+    width: 200px;
+  }
+  .varen{
+    width: 900px;
+    padding-top: 130px;
+    padding-left: 40px;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif'
+  }
+  .varen2{
+    width: 900px;
+    padding-left: 980px;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif'
+  }
+  .ikea7{
+    width: 504px;
+    height: 900px;
+  }
