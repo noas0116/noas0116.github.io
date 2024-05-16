@@ -1,11 +1,14 @@
 *{
     font-size: 30px;
-    background-image: url(/storstasidan/bild/ikealoggain.png);
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-repeat: no-repeat;
 }
-body{
-    background-image: url(/storstasidan/bild/ikealoggain.png);
+p{
+color: black;
+}   
+h1{
+color: black;
 }
-
+mark{
+    color: black;
+}
