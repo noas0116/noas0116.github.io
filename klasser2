@@ -1,0 +1,35 @@
+class Student:
+    def __init__(self, f_name: str, l_name: str, year: int, grades: list[int]):
+        self.f_name = f_name
+        self.l_name = l_name
+        self.year = year
+        self.grades = grades
+
+    def __str__(self):
+        return f"Student:{self.f_name} {self.l_name}, Betyg: {self.grades}"
+
+    def add_grade(self, new_grade: int):
+        self.grades.append(new_grade)
+    
+    def calculate_average(self):
+        return round(sum(self.grades) / len(self.grades), 1)
+
+    def info(self):
+        return f"{self.f_name} {self.l_name} is {self.year} years old"
+    
+class Classroom:
+    def __init__(self, name : str, class_list : Student):
+        pass
+
+
+student = Student("Hasse", "Andersson", 20, [4,3,2,5,1])
+
+print(student.f_name)
+print(student.l_name) 
+print(student.year)
+print(student.grades)
+student.add_grade(4)
+print(student.grades)
+
+print(student.calculate_average())
+print(student.info())
